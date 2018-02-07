@@ -1,1 +1,1 @@
-# CS341-Project-1
+# CS341 - This will contain all my CS341 NJIT Projects
