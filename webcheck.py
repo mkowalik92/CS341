@@ -1,7 +1,3 @@
-# Marek Kowalik
-# 31010270
-# mk343@njit.edu
-
 low_letters = "abcdefghijklmnopqrstuvwxyz"
 low_letters_no_w = "abcdefghijklmnopqrstuvxyz"
 low_letters_no_c = "abdefghijklmnopqrstuvwxyz"
@@ -9,7 +5,7 @@ low_letters_no_m = "abcdefghijklnopqrstuvwxyz"
 low_letters_no_o = "abcdefghijklmnpqrstuvwxyz"
 
 def print_intro():
-    print("\nProject 1 for CS 341\nWritten by: Marek Kowalik, 31010270\nInstructor: Marvin Nakayama, marvin@njit.edu\n")
+    print("\nProject 1 for CS 341\nWritten by: Marek\nInstructor: Marvin Nakayama\n")
 
 def parse_url(url_string):
     state = 1
